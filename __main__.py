@@ -12,7 +12,7 @@ from O365 import Schedule
 
 O365_LOGIN = ''
 O365_PASSWORD = ''
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'GMT'
 
 
 def gcal_auth():
