@@ -1,0 +1,3 @@
+git+https://github.com/O365/python-o365.git
+google-api-python-client
+oauth2client
